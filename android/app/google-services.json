@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456211277696",
+    "project_id": "yahya-portfolio-7bc42",
+    "storage_bucket": "yahya-portfolio-7bc42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456211277696:android:d18dd41eeacb83844e8365",
+        "android_client_info": {
+          "package_name": "com.muhammadYahya.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqqK_ylo9dAdJV8J_iaBz2by4kj5SshA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
